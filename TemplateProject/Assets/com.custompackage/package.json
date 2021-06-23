@@ -1,0 +1,10 @@
+{
+	"name": "com.custompackage",
+	"displayName": "Demo Package",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"author": "Fernando Urquijo",
+	"description": "Example for a template package",
+	"dependencies": {
+	}
+}
