@@ -6,6 +6,9 @@
 	"author": "Fernando Urquijo",
 	"description": "Example for a template package",
 	"dependencies": {
-		"com.coreassets": "https://github.com/furquijos/PackagesHub.git?path=/CoreAssets/Assets/com.coreassets/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/furquijos/PackagesHub.git?path=/CoreAssets/Assets/com.coreassets/"
 	}
 }
