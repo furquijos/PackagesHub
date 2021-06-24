@@ -1,0 +1,11 @@
+{
+	"name": "packagewithDependency",
+	"displayName": "Package with Dependency",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"author": "Fernando Urquijo",
+	"description": "Example for a dependency package",
+	"dependencies": {
+		"com.coreassets": "https://github.com/furquijos/PackagesHub.git?path=/CoreAssets/Assets/com.coreassets/"
+	}
+}
